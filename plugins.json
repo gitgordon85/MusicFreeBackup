@@ -1,8 +1,8 @@
 {
   "plugins": [
     {
-      "name": "歌曲宝",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/gequbao.js",
+      "name": "陈工",
+      "ext": "./plugins/gequbao.js"
       "version": "0.0.5"
     },
     {
