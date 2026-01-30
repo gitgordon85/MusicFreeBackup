@@ -22,6 +22,12 @@
       "name": "汽水",
       "url": "https://gitee.com/hongmengv5/musicfree/raw/master/qishui.js",
       "version": "0.1.0"
+    },
+
+    {
+      "name": "小秋音乐",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoqiu.js",
+      "version": "0.0.2"
     }
   ]
 }
